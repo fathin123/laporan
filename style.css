@@ -1,0 +1,29 @@
+
+.container {
+    font-family: sans-serif;
+}
+
+.jumbotron {
+    padding-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #d3d3d3;
+}
+
+hr {
+	width: 250px;
+	border-top: 3px solid;
+}
+
+.display-4 {
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+#projects {
+    background-color: #d3d3d3;
+    padding-bottom: 20px;
+}
+
+#contact {
+    padding-top: 20px;
+}
